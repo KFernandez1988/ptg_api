@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DEBUG":"api:*",
+        "SECRET": "Paradise_Tour_guiders_is_For_Everyone!"
+    },
+    "ignore": "sesssion"
+}
